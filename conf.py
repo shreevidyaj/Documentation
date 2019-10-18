@@ -60,6 +60,7 @@ exclude_patterns = ['_build']
 # #CHNAGEME# In documentation_template_for_your_next_project/_templates/globaltoc.html
 #            Change "Universe" into the name of your project
 templates_path = ['_templates']
+templates_path = ['_templates']
 
 
 # -- Define and configure non-default extensions ----------------------------------------------------------------------
@@ -107,7 +108,7 @@ html_static_path = ['_static']
 # Defining the static path allows me to add my own logo for the project:
 #   (make sure the theme of your choice support the use of logo.
 #CHNAGEME# Add a photo of your choice under _static folder, and link to its name here.
-html_logo = '_static/universe.jpg'
+html_logo = '_static/WIND-Logo-Red-Screen-Md.png'
 
 # Custom sidebar templates, must be a dictionary that maps document names to template names.
 # In This project I chose to include in the sidebar:
@@ -116,9 +117,8 @@ html_logo = '_static/universe.jpg'
 #   - Search box: appears below the TOc, and can be configured by editing css attributes.
 html_sidebars = {
     '**': [
-        'globaltoc.html',
+		'globaltoc.html',
 		'navigation.html',
         'searchbox.html'
     ]
 }
-
