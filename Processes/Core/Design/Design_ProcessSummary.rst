@@ -14,13 +14,13 @@ The Product Architect is responsible for executing this process.
 |                        | Management System and available for requirements analysis to identify the |
 |                        | design artifacts required for the release.                                |
 +------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
+|Exit Criteria/Outputs:  | Design artifacts checked-in to the Configuration Management System        |
 |                        | (e.g., Git).                                                              |
 +------------------------+---------------------------------------------------------------------------+
 
 
 Stakeholders:
------------------	
+-----------------
 
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
@@ -38,12 +38,12 @@ Stakeholders:
 -------------------------------------------------------------------------------
 
 Related Process Assets:
-----------------------------		
+----------------------------
 
     Design Review Process?
 
 
 References:
------------------	
+-----------------
 
     Requirements Prioritization Process.pptx

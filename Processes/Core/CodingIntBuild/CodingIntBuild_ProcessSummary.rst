@@ -1,8 +1,10 @@
 :orphan:
 
-================================
-Design Process Summary
-================================
+=============================================
+Coding, Integration and Build Process Summary
+=============================================
+
+**THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
 The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
 
