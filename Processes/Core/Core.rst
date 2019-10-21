@@ -10,7 +10,7 @@ The design process describes a sequence of activities performed to develop/manag
 
 `Process Summary <./Design/Design_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../../../docs/Processes/Core/Design/Design.jpg>`_
+`Process Flow Diagram <../../../../_static/Design/Design.jpg>`_
 
 |
 

@@ -10,9 +10,9 @@ Policies
 Processes & Procedures
 ======================
 Software Design Processes
-   `Process Summary <./Core/Design/ProcessSummary.html>`_
+   `Process Summary <./Design_ProcessSummary.html>`_
 
-   `Process Flow Diagram <../../../../../Processes/Core/Design/Design.jpg>`_
+   `Process Flow Diagram <../../../../../_static/Design/Design.jpg>`_
 
 Link to Design Review Procedure (TODO)
 
