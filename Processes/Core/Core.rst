@@ -10,7 +10,7 @@ The design process describes a sequence of activities performed to develop/manag
 
 `Process Summary <./Design/Design_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../_static/Design/Design.jpg>`_
+`Process Flow Diagram <../../_static/Core/Design/Design.jpg>`_
 
 |
 
@@ -22,7 +22,7 @@ The process describes a sequence of activities performed to develop/manage softw
 
 `Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../../../docs/Processes/Core/CodingIntBuild/Coding.jpg>`_
+`Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`_
 
 |
 
@@ -34,7 +34,7 @@ The process describes a sequence of activities performed to develop/manage softw
 
 `Process Summary <./Requirements/Requirements_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../../../docs/Processes/Core/Requirements/Requirements.jpg>`_
+`Process Flow Diagram <../../_static/Core/Requirements/Requirements.jpg>`_
 
 |
 
@@ -47,7 +47,7 @@ The process describes a sequence of activities performed to test software code.
 
 `Process Summary <./Verification/Verification_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../../../docs/Processes/Core/Verification/VerificationValidation.jpg>`_
+`Process Flow Diagram <../../_static/Core/Verification/VerificationValidation.jpg>`_
 
 |
 
@@ -59,4 +59,4 @@ The process describes a sequence of activities performed to validate the softwar
 
 `Process Summary <./Validation/Validation_ProcessSummary.html>`_
 
-`Process Flow Diagram <../../../../docs/Processes/Core/Validation/VerificationValidation.jpg>`_
+`Process Flow Diagram <../../_static/Core/Validation/VerificationValidation.jpg>`_

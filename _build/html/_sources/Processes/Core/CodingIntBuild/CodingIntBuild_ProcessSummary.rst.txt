@@ -35,8 +35,7 @@ Stakeholders:
 |                        | Responsible for......                                                     |
 +------------------------+---------------------------------------------------------------------------+
 
-
-`Process Flow Diagram <../../../../../docs/Processes/Core/Design/Design.jpg>`_
+`Process Flow Diagram <../../../_static/Core/CodingIntBuild/Coding.jpg>`_
 -------------------------------------------------------------------------------
 
 Related Process Assets:

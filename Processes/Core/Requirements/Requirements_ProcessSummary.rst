@@ -37,7 +37,7 @@ Stakeholders:
 +------------------------+---------------------------------------------------------------------------+
 
 
-`Process Flow Diagram <../../../../../docs/Processes/Core/Design/Design.jpg>`_
+`Process Flow Diagram <../../../_static/Core/Requirements/Requirements.jpg>`_
 -------------------------------------------------------------------------------
 
 Related Process Assets:
