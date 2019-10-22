@@ -18,7 +18,7 @@ The design process describes a sequence of activities performed to develop/manag
 --------------------------------------------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as: 
 
-The process describes a sequence of activities performed to develop/manage software code.
+The Coding, Integration, and Build process describes a sequence of activities performed to develop/manage software code.
 
 `Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`_
 
@@ -30,7 +30,7 @@ The process describes a sequence of activities performed to develop/manage softw
 -----------------------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as:
 
-The process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
+The Requirements process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
 
 `Process Summary <./Requirements/Requirements_ProcessSummary.html>`_
 
@@ -42,7 +42,7 @@ The process describes a sequence of activities performed to develop/manage softw
 -----------------------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as:
 
-The process describes a sequence of activities performed to test software code.
+The Verification process describes a sequence of activities performed to test software code.
 
 
 `Process Summary <./Verification/Verification_ProcessSummary.html>`_
@@ -55,7 +55,7 @@ The process describes a sequence of activities performed to test software code.
 -----------------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as:
 
-The process describes a sequence of activities performed to validate the software requirements.  Validation activities include reviewing each desired product Epics (committed to the release) against the acceptance criteria. The goal of this process is to confirm that the product meets the defined requirements and its acceptance criteria.
+The Validation process describes a sequence of activities performed to validate the software requirements.  Validation activities include reviewing each desired product Epics (committed to the release) against the acceptance criteria. The goal of this process is to confirm that the product meets the defined requirements and its acceptance criteria.
 
 `Process Summary <./Validation/Validation_ProcessSummary.html>`_
 
