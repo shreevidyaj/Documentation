@@ -9,14 +9,15 @@ Policies
 
 Processes & Procedures
 ======================
-Software Design Processes
-   `Process Summary <./Design_ProcessSummary.html>`_
 
-   `Process Flow Diagram <../../../_static/Core/Design/Design.jpg>`_
+- Software Design Processes
+   - `Process Summary <./Design_ProcessSummary.html>`_
 
-Link to Design Review Procedure (TODO)
+   - `Process Flow Diagram <../../../_static/Core/Design/Design.jpg>`_
 
-`Ensuring Product Architect Oversight <https://jive.windriver.com/docs/DOC-61278>`_
+- Link to Design Review Procedure (TODO)
+
+- `Ensuring Product Architect Oversight <https://jive.windriver.com/docs/DOC-61278>`_
 
 Standards & Guidelines
 ======================

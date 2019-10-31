@@ -1,52 +1,80 @@
 :orphan:
 
-==========================================
+=========================================
 Continuous Improvement Process Summary
-==========================================
-
+=========================================
 
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+The purpose of this process is to continually improve the organization’s effectiveness and efficiency through its processes aligned with the business/customer needs.
 
-The Product Architect is responsible for executing this process.
+|
 
+The Senior Management is responsible for this process and has the authority to accept/reject/defer changes to the lifecycle processes. The SQA Lead is responsible for executing the approved process improvements.
 
-+------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
-+------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
-+------------------------+---------------------------------------------------------------------------+
+|
 
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | Software lifecycle processes defined/implemented and control mechanism    |
+|                            | established to develop, monitor, control and improve lifecycle processes  |
+|                            |                                                                           |
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | - Program data collected and analyzed to understand the strengths and     |
+|                            |   weaknesses of the existing processes                                    |
+|                            | - Problems/Changes arising from the internal/external environment are     |
+|                            |   identified as process improvement opportunities with justification for  |
+|                            |   change                                                                  |
+|                            | - Improvement opportunities documented with one of the following:         |
+|                            |    - Accepted but deferred for future consideration                       |
+|                            |    - Accpted and implemented, with action plan defined and documented     |
+|                            |    - Rejected with justification                                          |
+|                            |    - Re-categorized as defect or action item                              |
+|                            | - Implementation of action plan reviewed and approved                     |
+|                            |                                                                           |
++----------------------------+---------------------------------------------------------------------------+
+
+|
 
 Stakeholders:
 -----------------	
++---------------------------------+---------------------------------------------------------------------------+
+| **Role**                        | **Responsibilities**                                                      |
++---------------------------------+---------------------------------------------------------------------------+
+| Issue fixer                     | For example, Dev, test, SQA, InfoDev, etc.                                |
+|                                 |                                                                           |
+|                                 | Responsible for......                                                     |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
+| Project Team                    | Includes EPM, Dev, Test, InfoDev, CSO and PM                              |
+|                                 |                                                                           |
+|                                 | Responsible for......                                                     |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
+| QMS Team                        | Includes SQA, Engineering Manager, Product Architect, CM Lead, EPM, and   |
+|                                 | Test leads                                                                |
+|                                 |                                                                           |
+|                                 | Responsible for......                                                     |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
 
-+------------------------+---------------------------------------------------------------------------+
-| **Role**               | **Responsibilities**                                                      |
-+------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
-+------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                        |                                                                           |
-|                        | Responsible for......                                                     |
-+------------------------+---------------------------------------------------------------------------+
-
+|
 
 `Process Flow Diagram <../../../_static/Core/ContinuousImprovement/ContinuousImprovement.jpg>`_
 -----------------------------------------------------------------------------------------------------
 
+|
 
 Related Process Assets:
-----------------------------		
-
-    ???
-
+----------------------------
+   - (TBD)
+   
+|
 
 References:
------------------	
-    ???
+-----------------
+   - (TBD)
+   
+|

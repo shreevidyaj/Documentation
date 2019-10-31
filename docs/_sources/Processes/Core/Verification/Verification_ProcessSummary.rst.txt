@@ -4,49 +4,62 @@
 Verification Process Summary
 ================================
 
+The process describes a sequence of activities performed to test software code.
 
-**THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
+|
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+The Software Tester is responsible for this process
 
-The Product Architect is responsible for executing this process.
+|
 
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | The requirements analysis and design process have progressed sufficiently |
+|                            | for the development of code and testing activities to be performed.       |
+|                            | Epics/Stories (software requirements) are available.                      |
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | - Test Plan Artifacts (Feature/Epic test plan, Release Test Strategy      |
+|                            |   maintained in Program Management/Communication Platform (e.g., Jive)    |
+|                            | - Test plan docs review completed                                         |
+|                            | - Test cases and results managed in the Test Management System (e.g.,     |
+|                            |   LTAF).                                                                  |
+|                            | - Test Cases and results reviewed and approved.                           |
+|                            | - Defects managed in the Defect Management System (e.g., Jira)            |
++----------------------------+---------------------------------------------------------------------------+
 
-+------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
-+------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
-+------------------------+---------------------------------------------------------------------------+
-
+|
 
 Stakeholders:
 -----------------	
++---------------------------------+---------------------------------------------------------------------------+
+| **Role**                        | **Responsibilities**                                                      |
++---------------------------------+---------------------------------------------------------------------------+
+| Engineering Program Manager     | Responsible for...                                                        |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
+| Scrum Team                      | Includes Technical Lead, Engineering Manager ( Development and Test),     |
+|                                 | Development Engineer, Test Engineer, Information Development Engineer.    |
+|                                 |                                                                           |
+|                                 | Responsible for......                                                     |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
 
-+------------------------+---------------------------------------------------------------------------+
-| **Role**               | **Responsibilities**                                                      |
-+------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
-+------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                        |                                                                           |
-|                        | Responsible for......                                                     |
-+------------------------+---------------------------------------------------------------------------+
+|
 
-
-`Process Flow Diagram <../../../_static/Core/Verification/VerificationValidation.jpg>`_
+`Process Flow Diagram <../../../_static/Core/Verification/VerificationValidation.jpg>`__
 -----------------------------------------------------------------------------------------
 
+|
+
 Related Process Assets:
-----------------------------		
-
-    Design Review Process?
-
+----------------------------
+   - (TBD)
+   
+|
 
 References:
------------------	
-
-    Requirements Prioritization Process.pptx
+-----------------
+   - (TBD)
+   
+|

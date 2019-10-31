@@ -1,7 +1,7 @@
 :orphan:
 
 =============================================
-Coding, Integration and Build Process Summary
+Coding Process Summary
 =============================================
 
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**

@@ -2,6 +2,19 @@
 Core Processes
 ==============
 
+
+`Requirements <./Requirements/Requirements.html>`_
+-----------------------------------------------------------------------------------------
+Sample description of the process/high level overview...  such as:
+
+The Requirements process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
+
+`Process Summary <./Requirements/Requirements_ProcessSummary.html>`__
+
+`Process Flow Diagram <../../_static/Core/Requirements/Requirements.jpg>`__
+
+|
+
 `Design <./Design/Design.html>`_
 -----------------------------------------------------------------------
 Sample description of the process/high level overview...  such as: 
@@ -23,18 +36,6 @@ The Coding, Integration, and Build process describes a sequence of activities pe
 `Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`__
 
 `Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`__
-
-|
-
-`Requirements <./Requirements/Requirements.html>`_
------------------------------------------------------------------------------------------
-Sample description of the process/high level overview...  such as:
-
-The Requirements process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
-
-`Process Summary <./Requirements/Requirements_ProcessSummary.html>`__
-
-`Process Flow Diagram <../../_static/Core/Requirements/Requirements.jpg>`__
 
 |
 
