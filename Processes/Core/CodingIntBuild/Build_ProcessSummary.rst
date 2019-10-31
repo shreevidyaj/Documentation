@@ -56,11 +56,16 @@ Stakeholders:
 
 Related Process Assets:
 ----------------------------		
-   
+*Note: Team to identify additional Related Processes/Procedures as applicable*   
+
 |
 
 References:
------------------	
+-----------------
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+	
    - `Requirements Prioritization Process.pptx <https://jive.windriver.com/docs/DOC-71813>`_
+   
+*Note: Team to identify additional Refereces as applicable*
    
 |

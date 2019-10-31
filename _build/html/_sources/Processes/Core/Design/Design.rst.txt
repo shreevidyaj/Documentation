@@ -7,6 +7,8 @@ Design
 Policies
 ==========
 
+*Note:  Team to identify policy(ies) as applicable*
+
 Processes & Procedures
 ======================
 
@@ -15,17 +17,28 @@ Processes & Procedures
 
    - `Process Flow Diagram <../../../_static/Core/Design/Design.jpg>`_
 
-- Link to Design Review Procedure (TODO)
+
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
 
 - `Ensuring Product Architect Oversight <https://jive.windriver.com/docs/DOC-61278>`_
 
+*Note: Team to identify additional processes/procedures as applicable*
+
 Standards & Guidelines
 ======================
-Link to Software Design Standard (TODO)
+
+*Note: Team to identify additional Standards & Guidelines as applicable*
+
+- Software Design Standard?
 
 Tools and Templates
 ===================
-Link to microHLD template (TODO)
+
+*Note: Team to identify additional Tools & Templates as applicable*
+
+-  microHLD template?
 
 References
 ==========
+*Note: Team to identify additional References as applicable*

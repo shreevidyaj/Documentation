@@ -57,13 +57,17 @@ Stakeholders:
 
 Related Process Assets:
 ----------------------------
-   - (TBD)
+   - *Note: Team to identify additional Related Processes/Procedures as applicable*
    
 |
 
 References:
 -----------------
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
+
    - `MST to Product Team Product Requirements Process <https://jive.windriver.com/docs/DOC-71790>`_
    - `Requirements Prioritization Process.pptx <https://jive.windriver.com/docs/DOC-71813>`_
-   
-|
+
+
+*Note: Team to identify additional References as applicable*   

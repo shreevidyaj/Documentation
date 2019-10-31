@@ -6,39 +6,54 @@ Validation
 
 Policies
 ========== 
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
 - `Verification Policy <https://jive.windriver.com/docs/DOC-78546>`_
 
+
+*Note:  Team to identify additional policy(ies) as applicable*
 
 Processes & Procedures
 ======================
 - Software Coding Processes
-   - `Process Summary <./Coding_ProcessSummary.html>`_
+   - `Process Summary <./Validation_ProcessSummary.html>`_
 
    - `Process Flow Diagram <../../../_static/Core/CodingIntBuild/Coding.jpg>`_
    
-- `Creating a Test Plan <https://jive.windriver.com/docs/DOC-58077>`_ (VxWorks 7 Development Processes Jive Page)
+   
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
 
-- `Uploading Feature Test Results <https://jive.windriver.com/docs/DOC-58992>`_ (VxWorks 7 Development Processes Jive Page)
+   
+- `Creating a Test Plan <https://jive.windriver.com/docs/DOC-58077>`_ 
 
-- `Viewing Nighty and Release Testing Results <https://jive.windriver.com/docs/DOC-58993>`_ (VxWorks 7 Development Processes Jive Page)
+- `Uploading Feature Test Results <https://jive.windriver.com/docs/DOC-58992>`_ 
 
-- `Adding to Regression Testing <https://jive.windriver.com/docs/DOC-61179>`_ (VxWorks 7 Development Processes Jive Page)
+- `Viewing Nighty and Release Testing Results <https://jive.windriver.com/docs/DOC-58993>`_ 
 
-- `Scrum Tester Responsibilities <https://jive.windriver.com/docs/DOC-74086>`_ (VxWorks 7 Development Processes Jive Page)
+- `Adding to Regression Testing <https://jive.windriver.com/docs/DOC-61179>`_ 
+
+- `Scrum Tester Responsibilities <https://jive.windriver.com/docs/DOC-74086>`_ 
+
+*Note: Team to identify additional processes/procedures as applicable*
 
 Standards & Guidelines
 ======================
 
+*Note: Team to identify additional Standards & Guidelines as applicable*
+
 Tools and Templates
 ===================
-- `Feature Test Plan Template <https://jive.windriver.com/docs/DOC-73974>`_
+*Note: Team to identify additional Tools & Templates as applicable*
 
-- `Release Test Strategy Template <https://jive.windriver.com/docs/DOC-50638>`_
+- Validation Plan?
 
-- `VxWorks 7 Release Test Strategy Template <https://jive.windriver.com/docs/DOC-50638>`_
-
-- Verification Report Template
+- Validation Report Template?
 
 References
 ========== 
-- `Uploading Manual test Results to LTAF <https://jive.windriver.com/docs/DOC-61193>`_ (VxWorks 7 Development Processes Jive Page)
+
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
+- `Uploading Manual test Results to LTAF <https://jive.windriver.com/docs/DOC-61193>`_ 
+
+*Note: Team to identify additional References as applicable*

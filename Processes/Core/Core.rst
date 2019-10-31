@@ -33,9 +33,13 @@ Sample description of the process/high level overview...  such as:
 
 The Coding, Integration, and Build process describes a sequence of activities performed to develop/manage software code.
 
-`Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`__
+`Coding Process Summary <./CodingIntBuild/Coding_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`__
+`Coding Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`__
+
+`Build Process Summary <./CodingIntBuild/Build_ProcessSummary.html>`__
+
+`Build Process Flow Diagram <../../_static/Core/CodingIntBuild/Build.jpg>`__
 
 |
 

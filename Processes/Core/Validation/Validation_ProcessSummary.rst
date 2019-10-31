@@ -53,12 +53,12 @@ Stakeholders:
 
 Related Process Assets:
 ----------------------------
-   - (TBD)
+*Note: Team to identify additional Related Processes/Procedures as applicable*
    
 |
 
 References:
 -----------------
-   - (TBD)
+*Note: Team to identify additional Refereces as applicable*
    
 |
