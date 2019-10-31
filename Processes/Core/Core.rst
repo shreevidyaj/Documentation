@@ -20,9 +20,9 @@ Sample description of the process/high level overview...  such as:
 
 The Coding, Integration, and Build process describes a sequence of activities performed to develop/manage software code.
 
-`Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`_
+`Process Summary <./CodingIntBuild/CodingIntBuild_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`_
+`Process Flow Diagram <../../_static/Core/CodingIntBuild/Coding.jpg>`__
 
 |
 
@@ -32,9 +32,9 @@ Sample description of the process/high level overview...  such as:
 
 The Requirements process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
 
-`Process Summary <./Requirements/Requirements_ProcessSummary.html>`_
+`Process Summary <./Requirements/Requirements_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Requirements/Requirements.jpg>`_
+`Process Flow Diagram <../../_static/Core/Requirements/Requirements.jpg>`__
 
 |
 
@@ -45,9 +45,9 @@ Sample description of the process/high level overview...  such as:
 The Verification process describes a sequence of activities performed to test software code.
 
 
-`Process Summary <./Verification/Verification_ProcessSummary.html>`_
+`Process Summary <./Verification/Verification_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Verification/VerificationValidation.jpg>`_
+`Process Flow Diagram <../../_static/Core/Verification/VerificationValidation.jpg>`__
 
 |
 
@@ -57,6 +57,6 @@ Sample description of the process/high level overview...  such as:
 
 The Validation process describes a sequence of activities performed to validate the software requirements.  Validation activities include reviewing each desired product Epics (committed to the release) against the acceptance criteria. The goal of this process is to confirm that the product meets the defined requirements and its acceptance criteria.
 
-`Process Summary <./Validation/Validation_ProcessSummary.html>`_
+`Process Summary <./Validation/Validation_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Validation/VerificationValidation.jpg>`_
+`Process Flow Diagram <../../_static/Core/Validation/VerificationValidation.jpg>`__

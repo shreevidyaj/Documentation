@@ -7,46 +7,58 @@ Validation Process Summary
 
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+The process describes a sequence of activities performed to validate the software requirements.  Validation activities include reviewing each desired product Epics (committed to the release) against the acceptance criteria. The goal of this process is to confirm that the product meets the defined requirements and its acceptance criteria.
 
-The Product Architect is responsible for executing this process.
+|
 
+The Validator (e.g., Technical Lead/Product Architect) is responsible for this process.
 
-+------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
-+------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
-+------------------------+---------------------------------------------------------------------------+
+|
 
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | - Epics with stories and acceptance criteria are available                |
+|                            | - Verification tests excuted and results are available                    |
+|                            | - Release Candidate build ready for validation                            |
+|                            | - Known defects in the Defect Management System (e.g., Jira)              |
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | - Validation test plans and results                                       |
+|                            | - Review of validation test plan and results                              |
+|                            | - Validation performed and results recorded                               |
+|                            | - Change Requests recorded.                                               |
++----------------------------+---------------------------------------------------------------------------+
+
+|
 
 Stakeholders:
 -----------------	
-
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
 +------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
-+------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
+| Product Manager        | Responsible for...                                                        |
 |                        |                                                                           |
-|                        | Responsible for......                                                     |
+|                        |                                                                           |
++------------------------+---------------------------------------------------------------------------+
+| Validator              | Responsible for...                                                        |
+|                        |                                                                           |
+|                        |                                                                           |
+|                        |                                                                           |
 +------------------------+---------------------------------------------------------------------------+
 
+|
 
 `Process Flow Diagram <../../../_static/Core/Validation/VerificationValidation.jpg>`_
 ---------------------------------------------------------------------------------------
 
+|
+
 Related Process Assets:
-----------------------------		
-
-    Design Review Process?
-
+----------------------------
+   - (TBD)
+   
+|
 
 References:
------------------	
-
-    Requirements Prioritization Process.pptx
+-----------------
+   - (TBD)
+   
+|

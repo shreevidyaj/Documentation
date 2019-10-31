@@ -4,49 +4,60 @@
 Sustaining Process Summary
 ==========================================
 
-
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+This process describes how to process a defect raised (customer reported, internal defect or based on security fixes available on the web) on a released product and deliver the defect fix to the customer.
 
-The Product Architect is responsible for executing this process.
+Security advisories (CVEs) are monitored by the sustaining team, but not reviewed by the bugboard. It is Wind River policy that all applicable CVE defects must be fixed as part of our customer support agreement.
 
+|
 
-+------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
-+------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
-+------------------------+---------------------------------------------------------------------------+
+The Engineering Manager (Sustaining) is responsible for all sustaining activities.
 
+|
+
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | Defects in Jira against a released product (e.g., customer reported,      |
+|                            | security advisories)                                                      |
+|                            |                                                                           |
++----------------------------+---------------------------------------------------------------------------+
+|**Entry Criteria/Inputs:**  | - Defect record closed                                                    |
+|                            | - Defect fix ready for release                                            |
++----------------------------+---------------------------------------------------------------------------+
+
+|
 
 Stakeholders:
 -----------------	
++---------------------------------+---------------------------------------------------------------------------+
+| **Role**                        | **Responsibilities**                                                      |
++---------------------------------+---------------------------------------------------------------------------+
+| Engineering Manager             | Responsible for...                                                        |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
+| Key Stakeholders                | Includes Product Management, Development and Test Managers.               |
+|                                 |                                                                           |
+|                                 | Responsible for......                                                     |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
 
-+------------------------+---------------------------------------------------------------------------+
-| **Role**               | **Responsibilities**                                                      |
-+------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
-+------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                        |                                                                           |
-|                        | Responsible for......                                                     |
-+------------------------+---------------------------------------------------------------------------+
-
+|
 
 `Process Flow Diagram <../../../_static/Core/Sustaining/Sustaining.jpg>`_
------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 
+|
 
 Related Process Assets:
-----------------------------		
-
-    ???
-
+----------------------------
+   - (TBD)
+   
+|
 
 References:
------------------	
-    ???
+-----------------
+   - (TBD)
+
+|

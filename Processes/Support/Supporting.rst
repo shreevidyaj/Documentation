@@ -8,9 +8,9 @@ Sample description of the process/high level overview...  such as:
 
 This process describes the activities related release planning.
 
-`Process Summary <./ProgramManagement_Planning/ProgramManagement_Planning_ProcessSummary.html>`_
+`Process Summary <./ProgramManagement_Planning/ProgramManagement_Planning_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ProgramManagement_Planning/ProgramManagement_Planning.jpg>`_
+`Process Flow Diagram <../../_static/Core/ProgramManagement_Planning/ProgramManagement_Planning.jpg>`__
 
 |
 
@@ -20,9 +20,9 @@ Sample description of the process/high level overview...  such as:
 
 The configuration management process describes how to establish and maintain the integrity of program-related work products and baselines throughout the lifecycle and make them available to relevant stakeholders in time for their need. A Software Configuration Management (SCM) Plan is used to document and guide project stakeholders in the CM tools and methods used within the program. 
 
-`Process Summary <./ConfigurationManagement/ConfigurationManagement_ProcessSummary.html>`_
+`Process Summary <./ConfigurationManagement/ConfigurationManagement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ConfigurationManagement/ConfigurationManagement.jpg>`_
+`Process Flow Diagram <../../_static/Core/ConfigurationManagement/ConfigurationManagement.jpg>`__
 
 |
 
@@ -32,9 +32,9 @@ Sample description of the process/high level overview...  such as:
 
 The Defect Management process describes the steps in managing defect reports from submission through resolution.
 
-`Process Summary <./DefectManagement/DefectManagement_ProcessSummary.html>`_
+`Process Summary <./DefectManagement/DefectManagement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/DefectManagement/DefectManagement.jpg>`_
+`Process Flow Diagram <../../_static/Core/DefectManagement/DefectManagement.jpg>`__
 
 |
 
@@ -44,9 +44,9 @@ Sample description of the process/high level overview...  such as:
 
 SQA provides visibility to management that the products and processes conform to the specified requirements and established plans. This process describes the planning and executing Software Quality Assurance (SQA) activities on a program. SQA activities cover both compliance audits (e.g., Quality audit – lifecycle phase wise, QMS process audit, in-process audit, auditing the auditor/audit process by an external person) and quality reviews (e.g., in-process review, phase exit artifacts).
 
-`Process Summary <./SWQualityAssurance/SWQualityAssurance_ProcessSummary.html>`_
+`Process Summary <./SWQualityAssurance/SWQualityAssurance_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/SWQualityAssurance/SWQualityAssurance.jpg>`_
+`Process Flow Diagram <../../_static/Core/SWQualityAssurance/SWQualityAssurance.jpg>`__
 
 |
 
@@ -56,9 +56,9 @@ Sample description of the process/high level overview...  such as:
 
 To guide the program/project, the functional group identifies/aligns their measurement needs with an approach that will provide objective results that can be used in making informed decisions by taking appropriate corrective actions.  The Measurement process describes how the measurement goals will be establsihed, collected, analyzed and communicated.
 
-`Process Summary <./Measurement/Measurement_ProcessSummary.html>`_
+`Process Summary <./Measurement/Measurement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Measurement/Measurement.jpg>`_
+`Process Flow Diagram <../../_static/Core/Measurement/Measurement.jpg>`__
 
 |
 
@@ -70,9 +70,9 @@ The Information Development (InfoDev) group is responsible for writing the produ
 
 This process describes the activities for writing, testing, and publishing user documentation for the product release.
 
-`Process Summary <./InformationDevelopment/InformationDevelopment_ProcessSummary.html>`_
+`Process Summary <./InformationDevelopment/InformationDevelopment_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core//InformationDevelopment/InformationDevelopment.jpg>`_
+`Process Flow Diagram <../../_static/Core//InformationDevelopment/InformationDevelopment.jpg>`__
 
 |
 

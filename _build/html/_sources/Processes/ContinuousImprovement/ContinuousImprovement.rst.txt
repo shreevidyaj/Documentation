@@ -12,9 +12,9 @@ Corrective action: Upon detection of a problem, action taken to correct the dire
 
 Preventive actions are proactive measures implemented when there is a risk for a potential process deviation/noncompliance.
 
-`Process Summary <./CAPA/CAPA_ProcessSummary.html>`_
+`Process Summary <./CAPA/CAPA_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/CAPA/CAPA.jpg>`_
+`Process Flow Diagram <../../_static/Core/CAPA/CAPA.jpg>`__
 
 `Continuous Improvement <./ContinuousImprovement/ContinuousImprovement.html>`_
 ---------------------------------------------------------------------------------
@@ -22,9 +22,9 @@ Sample description of the process/high level overview...  such as:
 
 The Continuous Improvement Process describes how improvements to the QMS, processes, and program are captured and tracked to resolution.
 
-`Process Summary <./ContinuousImprovement/ContinuousImprovement_ProcessSummary.html>`_
+`Process Summary <./ContinuousImprovement/ContinuousImprovement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ContinuousImprovement/ContinuousImprovement.jpg>`_
+`Process Flow Diagram <../../_static/Core/ContinuousImprovement/ContinuousImprovement.jpg>`__
 
 `QMS Maintenance <./QMSMaintenance/QMSMaintenance.html>`_
 -------------------------------------------------------------
@@ -34,9 +34,9 @@ Senior management along with the key stakeholders will continually improve the e
 
 The QMS is updated after analyzing the process improvement requests received and an updated version of the QMS is releases. This process describes how process assets in the QMS are managed and controlled. All policies, processes, procedures, guidelines, standards and templates in the QMS are kept under the CM system.
 
-`Process Summary <./QMSMaintenance/QMSMaintenance_ProcessSummary.html>`_
+`Process Summary <./QMSMaintenance/QMSMaintenance_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/QMSMaintenance/QMSMaintenance.jpg>`_
+`Process Flow Diagram <../../_static/Core/QMSMaintenance/QMSMaintenance.jpg>`__
 
 `Training <./Training/Training.html>`_
 -----------------------------------------------
@@ -44,8 +44,8 @@ Sample description of the process/high level overview...  such as:
 
 This process describes how training is determined, planned, resourced, and recorded. The Engineering Manager/SQA Lead is responsible to see that this process is followed, that the Training Matrix and Records for their programs are kept up to date, and that their teams obtain the necessary training.
 
-`Process Summary <./Training/Training_ProcessSummary.html>`_
+`Process Summary <./Training/Training_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Training/Training.jpg>`_
+`Process Flow Diagram <../../_static/Core/Training/Training.jpg>`__
 
 

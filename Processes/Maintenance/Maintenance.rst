@@ -10,9 +10,9 @@ This process describes how to process a defect raised (customer reported, intern
 
 Security advisories (CVEs) are monitored by the sustaining team, but not reviewed by the bugboard. It is Wind River policy that all applicable CVE defects must be fixed as part of our customer support agreement.
 
-`Process Summary <./Sustaining/Sustaining_ProcessSummary.html>`_
+`Process Summary <./Sustaining/Sustaining_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Sustaining/Sustaining.jpg>`_
+`Process Flow Diagram <../../_static/Core/Sustaining/Sustaining.jpg>`__
 
 `End of Life <./EOL/EOL.html>`_
 ---------------------------------------
@@ -20,6 +20,6 @@ Sample description of the process/high level overview...  such as:
 
 The End of Life process describes the activities needed to take the product to End of Life Phase.
 
-`Process Summary <./EOL/EOL_ProcessSummary.html>`_
+`Process Summary <./EOL/EOL_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/EOL/EOL.jpg>`_
+`Process Flow Diagram <../../_static/Core/EOL/EOL.jpg>`__

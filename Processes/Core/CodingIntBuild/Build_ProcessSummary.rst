@@ -1,25 +1,30 @@
 :orphan:
 
-================================
-Requirements Process Summary
-================================
-
+=============================================
+Build Process Summary
+=============================================
 
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage software requirements from customer requirements.
+The process describes a sequence of activities performed to transfer the development files to integration branch or release build branch, as appropriate. 
 
 |
 
-The Product Architect is responsible for this process.
+The Build & Configuration Lead is responsible for this process. 
 
 |
 
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  | - Requirements from the market                                            |
+|**Entry Criteria/Inputs:**  | - Code available in the developer's private branch                        |
+|                            | - Build tools                                                             |
+|                            |                                                                           |
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  | - Software Requirements (Epics, Stories, Tasks) developed and             |
-|                            |   managed in the Requirements Management System (e.g., Jira Agile)        |
+|**Exit Criteria/Outputs:**  | - Code submitted to integration/release branch, as appropriate            |
+|                            | - Build Log                                                               |
+|                            | - Nightly regression tests performed and Nightly test reports generated   |
+|                            |   and analyzed                                                            |
+|                            | - Issues are managed in the Defect Management System (e.g., Jira)         |
+|                            | - Release candidate ready                                                 |
 +----------------------------+---------------------------------------------------------------------------+
 
 |
@@ -29,18 +34,13 @@ Stakeholders:
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
 +------------------------+---------------------------------------------------------------------------+
-| External Customers     | Responsible for...                                                        |
-|                        |                                                                           |
+| Build Configuration    | Responsible for......                                                     |
+| Lead                   |                                                                           |
++------------------------+---------------------------------------------------------------------------+
+| Engineering Manager    | Responsible for......                                                     |
 |                        |                                                                           |
 +------------------------+---------------------------------------------------------------------------+
-| Internal Customers     | Includes Customer Service Organization (CSO), Field Reps, Product         |
-|                        | Management                                                                |
-|                        |                                                                           |
-|                        | Responsible for...                                                        |
-|                        |                                                                           |
-|                        |                                                                           |
-+------------------------+---------------------------------------------------------------------------+
-| Srcum Team             | Includes Technical Lead, Engineering Manager ( Development and Test),     |
+| Scrum Team             | Includes Technical Lead, Engineering Manager ( Development and Test),     |
 |                        | Development Engineer, Test Engineer, Information Development Engineer.    |
 |                        |                                                                           |
 |                        | Responsible for......                                                     |
@@ -50,20 +50,17 @@ Stakeholders:
 
 |
 
-`Process Flow Diagram <../../../_static/Core/Requirements/Requirements.jpg>`_
+`Process Flow Diagram <../../../_static/Core/CodingIntBuild/Build.jpg>`_
 -------------------------------------------------------------------------------
-
 |
 
 Related Process Assets:
-----------------------------
-   - (TBD)
+----------------------------		
    
 |
 
 References:
------------------
-   - `MST to Product Team Product Requirements Process <https://jive.windriver.com/docs/DOC-71790>`_
+-----------------	
    - `Requirements Prioritization Process.pptx <https://jive.windriver.com/docs/DOC-71813>`_
    
 |
