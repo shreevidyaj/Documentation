@@ -22,14 +22,24 @@ Policies
 
 Processes & Procedures
 ======================
-- Validation Processes
+- Verification Processes
    - `Process Summary <./Verification_ProcessSummary.html>`_
 
    - `Process Flow Diagram <../../../_static/Core/Validation/VerificationValidation.jpg>`_
-
-*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
    
-- `Validation Process <https://jive.windriver.com/docs/DOC-78554>`_
+   
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
+   
+- `Creating a Test Plan <https://jive.windriver.com/docs/DOC-58077>`_ 
+
+- `Uploading Feature Test Results <https://jive.windriver.com/docs/DOC-58992>`_ 
+
+- `Viewing Nighty and Release Testing Results <https://jive.windriver.com/docs/DOC-58993>`_ 
+
+- `Adding to Regression Testing <https://jive.windriver.com/docs/DOC-61179>`_ 
+
+- `Scrum Tester Responsibilities <https://jive.windriver.com/docs/DOC-74086>`_ 
 
 *Note: Team to identify additional processes/procedures as applicable*
 
@@ -55,4 +65,9 @@ Tools and Templates
 
 References
 ========== 
+
+*Note: The following are Procedures from Vx7 Jive page.  To be updated and reviewed for applicability*
+
+- `Uploading Manual test Results to LTAF <https://jive.windriver.com/docs/DOC-61193>`_ 
+
 *Note: Team to identify additional References as applicable*
