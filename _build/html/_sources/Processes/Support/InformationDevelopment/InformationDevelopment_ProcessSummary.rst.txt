@@ -4,21 +4,31 @@
 Information Development Process Summary
 ==========================================
 
-
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+The Information Development group is responsible for writing the product technical documentation for their customers. The user documentation content and delivery are described in the Documentation Plan.
 
-The Product Architect is responsible for executing this process.
+This process describes the activities for writing, testing, and publishing user documentation for the product release. 
+|
 
+An Information Development (Tech Pubs) Lead is assigned to each product release and is responsible for executing this process.
+
+|
 
 +------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
+|Entry Criteria/Inputs:  | - Standard InfoDev Guidelines on what user docuemnts should contain       |
+|                        | - List of customer requirements development wants to commit to            |
+|                        | - Estimates of complexity and size of features                            |
+|                        | - Assessment of reuse vs. rewrite of documentation                        |
+|                        | - Customer requests (Defects or Enhancement Requests in Defect Management |
+|                        |   Tool) for user documentation defects or improvements                    |
 +------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
+|Exit Criteria/Outputs:  | - Documentation Plan                                                      |
+|                        | - User Documentation reviewed, tested and approved for release per        |
+|                        |   Documentation and/or Test Plans                                         |
+|                        | - Docuemntation Test Cases and Results                                    |
+|                        | - Required files checked in for media                                     |
+|                        | - Required files posted to Wind River Support Network                     |
 +------------------------+---------------------------------------------------------------------------+
 
 
@@ -28,25 +38,25 @@ Stakeholders:
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
 +------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
+|  - InfoDev Lead        | Responsible for...                                                        |
 +------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                        |                                                                           |
-|                        | Responsible for......                                                     |
+|  - Writer              | Responsible for...                                                        |
++------------------------+---------------------------------------------------------------------------+
+|  - Tester              | Responsible for...                                                        |
++------------------------+---------------------------------------------------------------------------+
+|  - Reviewer            | Responsible for...                                                        |
 +------------------------+---------------------------------------------------------------------------+
 
 
-`Process Flow Diagram <../../../_static/Core/InformationDevelopment/InformationDevelopment.jpg>`_
+`Process Flow Diagram <../../../_static/Support/InformationDevelopment/InfoDev.jpg>`_
 -----------------------------------------------------------------------------------------------------
 
 
 Related Process Assets:
 ----------------------------		
-
-    ???
+*Note: Team to identify additional Related Processes/Procedures as applicable*
 
 
 References:
 -----------------	
-    ???
+*Note: Team to identify additional References as applicable*

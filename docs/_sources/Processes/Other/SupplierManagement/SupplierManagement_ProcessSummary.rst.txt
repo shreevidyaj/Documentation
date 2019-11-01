@@ -4,21 +4,24 @@
 Supplier Management Process Summary
 ==========================================
 
-
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+This process describes how suppliers are chosen and monitored. 
 
-The Product Architect is responsible for executing this process.
+|
 
+The Engineering Manager is responsible for this process.
+
+|
 
 +------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
+|Entry Criteria/Inputs:  | Program needs for goods or services that are better met outside of        |
+|                        | Wind River                                                                |
 +------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
+|Exit Criteria/Outputs:  | - Supplier Management Plan                                                |
+|                        | - Supplier agreements (Statement of Work, contract, NonDisclosure         |
+|                        |   Agreement written and agreed to                                         |
+|                        | - Supplier deliverables received, tested, accepted                        |
 +------------------------+---------------------------------------------------------------------------+
 
 
@@ -28,12 +31,14 @@ Stakeholders:
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
 +------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
+|  - Engineering Manager | Responsible for...                                                        |
 +------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                        |                                                                           |
-|                        | Responsible for......                                                     |
+|  - EPM                 | Responsible for...                                                        |
++------------------------+---------------------------------------------------------------------------+
+|  - Tech and/or Test    | Responsible for...                                                        |
+|    Lead                |                                                                           |
++------------------------+---------------------------------------------------------------------------+
+|  - Supplier            | Responsible for...                                                        |
 +------------------------+---------------------------------------------------------------------------+
 
 
@@ -43,10 +48,9 @@ Stakeholders:
 
 Related Process Assets:
 ----------------------------		
-
-    ???
+*Note: Team to identify additional Related Processes/Procedures as applicable*
 
 
 References:
 -----------------	
-    ???
+*Note: Team to identify additional References as applicable*

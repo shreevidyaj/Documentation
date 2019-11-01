@@ -60,7 +60,7 @@ References:
 
    - `Requirements Prioritization Process.pptx <https://jive.windriver.com/docs/DOC-71813>`_
    
-   *Note: Team to identify additional References as applicable*   
+*Note: Team to identify additional References as applicable*   
    
 |
 

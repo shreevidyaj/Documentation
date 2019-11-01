@@ -17,12 +17,16 @@ The Engineering Manager (Sustaining) is responsible for all sustaining activitie
 |
 
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  | Defects in Jira against a released product (e.g., customer reported,      |
-|                            | security advisories)                                                      |
-|                            |                                                                           |
+|**Entry Criteria/Inputs:**  | - Customer Support Organization receives defect information from customer |
+|                            |   and submits defeects in Defect Management System                        |
+|                            | - Sustaining Development Engineers monitor the web for security fixes     |
+|                            |   and submit defect directly in Defect Management System                  |
+|                            | - Development Engineering submit defects in Defect Management System      |
+|                            |   during daily testing                                                    |
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  | - Defect record closed                                                    |
-|                            | - Defect fix ready for release                                            |
+|**Entry Criteria/Inputs:**  | - Defect fixes the defect and tester verifies it                          |
+|                            | - Defect record closed in Defect Management System                        |
+|                            | - Defect fix released with RCPL                                           |
 +----------------------------+---------------------------------------------------------------------------+
 
 |
@@ -32,18 +36,22 @@ Stakeholders:
 +---------------------------------+---------------------------------------------------------------------------+
 | **Role**                        | **Responsibilities**                                                      |
 +---------------------------------+---------------------------------------------------------------------------+
-| Engineering Manager             | Responsible for...                                                        |
+| Support                         | Responsible for...                                                        |
 |                                 |                                                                           |
 |                                 |                                                                           |
 +---------------------------------+---------------------------------------------------------------------------+
-| Key Stakeholders                | Includes Product Management, Development and Test Managers.               |
-|                                 |                                                                           |
-|                                 | Responsible for......                                                     |
+| Engineering                     | Responsible for...                                                        |
 |                                 |                                                                           |
 |                                 |                                                                           |
 +---------------------------------+---------------------------------------------------------------------------+
-
-|
+| Sustaining Team                 | Responsible for...                                                        |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
+| Release Team                    | Responsible for...                                                        |
+|                                 |                                                                           |
+|                                 |                                                                           |
++---------------------------------+---------------------------------------------------------------------------+
 
 `Process Flow Diagram <../../../_static/Core/Sustaining/Sustaining.jpg>`_
 -----------------------------------------------------------------------------------------
@@ -51,13 +59,11 @@ Stakeholders:
 |
 
 Related Process Assets:
-----------------------------
-   - (TBD)
-   
-|
+----------------------------		
+*Note: Team to identify additional Related Processes/Procedures as applicable*
+
 
 References:
------------------
-   - (TBD)
-
+-----------------	
+*Note: Team to identify additional References as applicable*
 |

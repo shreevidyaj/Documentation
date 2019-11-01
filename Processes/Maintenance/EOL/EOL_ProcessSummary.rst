@@ -5,21 +5,21 @@ End of Life Process Summary
 ==========================================
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to test software code.
+The process describes the steps for deprecating or EOL'ing layers and components, or releasing "unsupported" content, or moving functionality between layers
 
 |
 
-The Software Tester is responsible for this process
+The Product Architect is responsible for this process
 
 |
 
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  |                                                                           |
+|**Entry Criteria/Inputs:**  | - Layers, components or content to be deprecated                          |
 |                            |                                                                           |
 |                            |                                                                           |
 +----------------------------+---------------------------------------------------------------------------+
-|**Entry Criteria/Inputs:**  |                                                                           |
-|                            |                                                                           |
+|**Entry Criteria/Inputs:**  | - Layers, components or content deprecated as defined by Guideline        |
+|                            | - Updated code in Configuration Management System                         |
 +----------------------------+---------------------------------------------------------------------------+
 
 |
@@ -29,14 +29,11 @@ Stakeholders:
 +---------------------------------+---------------------------------------------------------------------------+
 | **Role**                        | **Responsibilities**                                                      |
 +---------------------------------+---------------------------------------------------------------------------+
-|                                 | Responsible for...                                                        |
+| PLM                             | Responsible for...                                                        |
 |                                 |                                                                           |
 |                                 |                                                                           |
 +---------------------------------+---------------------------------------------------------------------------+
-| Scrum Team                      | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                                 | Development Engineer, Test Engineer, Information Development Engineer.    |
-|                                 |                                                                           |
-|                                 | Responsible for......                                                     |
+| Product Architect               | Responsible for...                                                        |
 |                                 |                                                                           |
 |                                 |                                                                           |
 +---------------------------------+---------------------------------------------------------------------------+
@@ -49,13 +46,12 @@ Stakeholders:
 |
 
 Related Process Assets:
-----------------------------
-   - (TBD)
-   
-|
+----------------------------		
+*Note: Team to identify additional Related Processes/Procedures as applicable*
+
 
 References:
------------------
-   - (TBD)
+-----------------	
+- `EOL Policy <https://jive.windriver.com/docs/DOC-43654>`_
 
-|
+*Note: Team to identify additional References as applicable*

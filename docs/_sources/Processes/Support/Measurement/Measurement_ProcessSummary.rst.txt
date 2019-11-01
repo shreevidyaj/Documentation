@@ -4,21 +4,23 @@
 Measurement Process Summary
 ==========================================
 
-
 **THIS PAGE IS CURRENTLY SERVING AS A PLACEHOLDER.  IN PROGRESS for updates.**
 
-The process describes a sequence of activities performed to develop/manage design artifacts (Architecture Design, High Level Design, Low level Design) as applicable.
+To guide the program/project, the functional group identifies/aligns their measurement needs with an approach that will provide objective results that can be used in making informed decisions by taking appropriate corrective actions.
 
-The Product Architect is responsible for executing this process.
+|
 
+The EPM is responsible for this process and the target audience include Program Management, Development, Testing, Configuration Management, Technical Publication, and Quality Assurance.
+
+|
 
 +------------------------+---------------------------------------------------------------------------+
-|Entry Criteria/Inputs:  | Customer requirements are identified as Epics/Stories in the Requirements |
-|                        | Management System and available for requirements analysis to identify the |
-|                        | design artifacts required for the release.                                |
+|Entry Criteria/Inputs:  | - Business Objectives                                                     |
 +------------------------+---------------------------------------------------------------------------+
-|Exit Criteria/Outputs:  | Design artificats checked-in to the Configuration Management System       |
-|                        | (e.g., Git).                                                              |
+|Exit Criteria/Outputs:  | - Business objectives defined as measurements                             |
+|                        | - Measurement data collected and analyzed                                 |
+|                        | - Metrics presented to Key Stakeholders and Senior Management             |
+|                        | - Metrics Report                                                          |
 +------------------------+---------------------------------------------------------------------------+
 
 
@@ -28,25 +30,24 @@ Stakeholders:
 +------------------------+---------------------------------------------------------------------------+
 | **Role**               | **Responsibilities**                                                      |
 +------------------------+---------------------------------------------------------------------------+
-|  - Product Architect   | Responsible for...                                                        |
+|  - EPM                 | Responsible for...                                                        |
 +------------------------+---------------------------------------------------------------------------+
-|  - Srcum Team          | Includes Technical Lead, Engineering Manager ( Development and Test),     |
-|                        | Development Engineer, Test Engineer, Information Development Engineer.    |
+|  - Key Stakeholders    | Includes Technical Lead, Engineering Manager (Development and Test),      |
+|                        | Architect, EPM, SQA Lead                                                  |
 |                        |                                                                           |
 |                        | Responsible for......                                                     |
 +------------------------+---------------------------------------------------------------------------+
 
 
-`Process Flow Diagram <../../../_static/Core/Measurement/Measurement.jpg>`_
+`Process Flow Diagram <../../../_static/Support/Measurement/Measurement.jpg>`_
 -----------------------------------------------------------------------------------------------------
 
 
 Related Process Assets:
 ----------------------------		
-
-    ???
+*Note: Team to identify additional Related Processes/Procedures as applicable*
 
 
 References:
 -----------------	
-    ???
+*Note: Team to identify additional References as applicable*
