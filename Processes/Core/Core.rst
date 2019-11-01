@@ -41,6 +41,10 @@ The Coding, Integration, and Build process describes a sequence of activities pe
 
 `Build Process Flow Diagram <../../_static/Core/CodingIntBuild/Build.jpg>`__
 
+`Release Process Summary <./CodingIntBuild/Release_ProcessSummary.html>`__
+
+`Release Process Flow Diagram <../../_static/Core/CodingIntBuild/Release.jpg>`__
+
 |
 
 `Verification <./Verification/Verification.html>`_

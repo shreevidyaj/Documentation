@@ -10,4 +10,4 @@ This process describes how suppliers are chosen and monitored.
 
 `Process Summary <./SupplierManagement/SupplierManagement.html>`__
 
-`Process Flow Diagram <../../_static/Core/SupplierManagement/SupplierManagement.jpg>`__
+`Process Flow Diagram <../../_static/Other/SupplierManagement/SupplierManagement.jpg>`__

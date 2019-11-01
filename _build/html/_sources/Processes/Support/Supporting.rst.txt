@@ -10,7 +10,7 @@ This process describes the activities related release planning.
 
 `Process Summary <./ProgramManagement_Planning/ProgramManagement_Planning_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ProgramManagement_Planning/ProgramManagement_Planning.jpg>`__
+`Process Flow Diagram <../../_static/Support/ProgramManagement_Planning/ReleasePlanning.jpg>`__
 
 |
 
@@ -22,7 +22,7 @@ The configuration management process describes how to establish and maintain the
 
 `Process Summary <./ConfigurationManagement/ConfigurationManagement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ConfigurationManagement/ConfigurationManagement.jpg>`__
+`Process Flow Diagram <../../_static/Support/ConfigurationManagement/SCM.jpg>`__
 
 |
 
@@ -34,7 +34,7 @@ The Defect Management process describes the steps in managing defect reports fro
 
 `Process Summary <./DefectManagement/DefectManagement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/DefectManagement/DefectManagement.jpg>`__
+`Process Flow Diagram <../../_static/Support/DefectManagement/DefectManagement.jpg>`__
 
 |
 
@@ -46,7 +46,7 @@ SQA provides visibility to management that the products and processes conform to
 
 `Process Summary <./SWQualityAssurance/SWQualityAssurance_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/SWQualityAssurance/SWQualityAssurance.jpg>`__
+`Process Flow Diagram <../../_static/Support/SWQualityAssurance/SQA.jpg>`__
 
 |
 
@@ -58,7 +58,7 @@ To guide the program/project, the functional group identifies/aligns their measu
 
 `Process Summary <./Measurement/Measurement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Measurement/Measurement.jpg>`__
+`Process Flow Diagram <../../_static/Support/Measurement/Measurement.jpg>`__
 
 |
 
@@ -72,7 +72,7 @@ This process describes the activities for writing, testing, and publishing user 
 
 `Process Summary <./InformationDevelopment/InformationDevelopment_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core//InformationDevelopment/InformationDevelopment.jpg>`__
+`Process Flow Diagram <../../_static/Support//InformationDevelopment/InfoDev.jpg>`__
 
 |
 

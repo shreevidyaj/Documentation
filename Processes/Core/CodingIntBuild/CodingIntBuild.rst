@@ -24,6 +24,11 @@ Processes
 
    - `Process Flow Diagram <../../../_static/Core/CodingIntBuild/Build.jpg>`__
    
+- Release Processes 
+   - `Process Summary <./CodingIntBuild/Release_ProcessSummary.html>`__
+
+   - `Process Flow Diagram <../../_static/Core/CodingIntBuild/Release.jpg>`__  
+   
 *Note: The following are Processes from Vx7 Jive page.  To be updated and reviewed for applicability*
 
    

@@ -12,9 +12,9 @@ Corrective action: Upon detection of a problem, action taken to correct the dire
 
 Preventive actions are proactive measures implemented when there is a risk for a potential process deviation/noncompliance.
 
-`Process Summary <./CAPA/CAPA_ProcessSummary.html>`__
+`Preventive Action Process Summary <./CAPA/PreventiveAction_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/CAPA/CAPA.jpg>`__
+`Preventive Action Process Flow Diagram <../../_static/ContinuousImprovement/CAPA/PreventiveAction.jpg>`__
 
 `Continuous Improvement <./ContinuousImprovement/ContinuousImprovement.html>`_
 ---------------------------------------------------------------------------------
@@ -24,10 +24,10 @@ The Continuous Improvement Process describes how improvements to the QMS, proces
 
 `Process Summary <./ContinuousImprovement/ContinuousImprovement_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/ContinuousImprovement/ContinuousImprovement.jpg>`__
+`Process Flow Diagram <../../_static/ContinuousImprovement/ContinuousImprovement/ContinuousImprovement.jpg>`__
 
-`QMS Maintenance <./QMSMaintenance/QMSMaintenance.html>`_
--------------------------------------------------------------
+`QMS Maintenance and Management <./QMSMaintenance/QMSMaintenance.html>`_
+--------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as: 
 
 Senior management along with the key stakeholders will continually improve the effectiveness of the Quality Management System (QMS), and review the quality policy and the QMS objectives for continued suitability on an as needed/annual basis to ensure its continued effectiveness.
@@ -36,7 +36,7 @@ The QMS is updated after analyzing the process improvement requests received and
 
 `Process Summary <./QMSMaintenance/QMSMaintenance_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/QMSMaintenance/QMSMaintenance.jpg>`__
+`Process Flow Diagram <../../_static/ContinuousImprovement/QMSMaintenance/QMSMaintenance.jpg>`__
 
 `Training <./Training/Training.html>`_
 -----------------------------------------------
@@ -46,6 +46,6 @@ This process describes how training is determined, planned, resourced, and recor
 
 `Process Summary <./Training/Training_ProcessSummary.html>`__
 
-`Process Flow Diagram <../../_static/Core/Training/Training.jpg>`__
+`Process Flow Diagram <../../_static/ContinuousImprovement/Training/Training.jpg>`__
 
 
