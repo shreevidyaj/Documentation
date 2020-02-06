@@ -57,4 +57,4 @@ References
    
    ISO 9001:2015 Section 9 - Performacne Evaluation
    
-   `Vx7 ISO 9001 Gap Analysis <../../../../Processes/VxWorks7_ISO9001_GapAnalysis.xlsx>`_
+   `Vx7 ISO 9001 Gap Analysis <../../../_static/VxWorks7_ISO9001_GapAnalysis.xlsx>`_
