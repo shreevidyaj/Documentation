@@ -48,3 +48,13 @@ References
 - `Work on Hand <https://jive.windriver.com/external-link.jspa?url=http%3A%2F%2Fbos-jlavene-dl1.corp.ad.wrs.com%3A3005%2Fdashboard%2Fdb%2Fvxworks-7-woh%3ForgId%3D1>`_
 
 *Note: Team to identify additional References as applicable*
+  
+|
+|
+
+.. seealso::
+   *In defining the Process or documents, refer to the following:*
+   
+   ISO 9001:2015 Section 9 - Performacne Evaluation
+   
+   `Vx7 ISO 9001 Gap Analysis <../../../../Processes/VxWorks7_ISO9001_GapAnalysis.xlsx>`_
