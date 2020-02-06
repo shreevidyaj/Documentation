@@ -28,7 +28,7 @@ sys.path.append(os.path.abspath('C:\Users\nlee\Documents\GitHub Sphinx tutorial\
 # -- Some general info  about the project -----------------------------------------------------------------------------
 
 project = u'Vx7 QMS'
-copyright = u'2019, Wind River Systems, Inc.'
+copyright = u'2020, Wind River Systems, Inc.'
 author = u'NaomiLee'
 
 
