@@ -118,7 +118,6 @@ html_logo = '_static/WIND-Logo-Red-Screen-Md.png'
 html_sidebars = {
     '**': [
 		'globaltoc.html',
-		'navigation.html',
         'searchbox.html'
     ]
 }
