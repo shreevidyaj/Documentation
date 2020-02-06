@@ -26,7 +26,7 @@ The Continuous Improvement Process describes how improvements to the QMS, proces
 
 `Process Flow Diagram <../../_static/ContinuousImprovement/ContinuousImprovement/ContinuousImprovement.jpg>`__
 
-`QMS Maintenance and Management <./QMSMaintenance/QMSMaintenance.html>`_
+`QMS Management and Maintenace <./QMSMaintenance/QMSMaintenance.html>`_
 --------------------------------------------------------------------------
 Sample description of the process/high level overview...  such as: 
 
