@@ -40,20 +40,16 @@ A configuration item is a collection of the program work products consisting of 
    
    -  CM Tools: Identify the CM tools used for the configuration management of the software lifecycle data, hardware and software tool components.
    
-      -  CM_File_Tool: General purpose file data capture and management tool ( e.g., Git, SVN)
+      -  CM_File_Tool: General purpose file data capture and management tool (e.g., Git, SVN)
 	  
-	  -  PR_Tool: Problem report capture and management tool
-	  
-	  -  Archival/Backup_Tool: Tool for storage of the released media/for backup and restoring server data
-	  
-	  -  Release _Tool:  Tool used to release lifecycle data
+	  -  Archive & Backup _Tool: Tool for storage of the released media, backup and restoring server data
 
    -  CM Servers: List the generic servers that host the configuration management tools and their configuration management data
    
       -  CM server: Server used to host the CM_File_Tool and its back-end data repositories
 	  
 	  -  Release_Server: Server used to host the released media and its back-end data repositories
- 
+	   
    -  CM Methods: Describe the configuration methods used, in this case the file repository structure
   
    -  CM Responsibilities: Identify the responsibilities for all aspects of the CM tools, actvities including control, management and oversight.  
