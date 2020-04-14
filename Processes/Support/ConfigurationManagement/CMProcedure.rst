@@ -51,9 +51,9 @@ The Configuration Management (CM) is a framework to establish and maintain the i
  
 #. **Perform CM activities**
    
-   -  Configuration Identification: The CM Lead provides a description of configuration items to which the CM scope applies.  Items placed under CM include (but not limited to) Lifecycle Workproducts, and Development and Test Environment details
+	- Configuration Identification: The CM Lead provides a description of configuration items to which the CM scope applies.  Items placed under CM include (but not limited to) Lifecycle Workproducts, and Development and Test Environment details
    
-	  -  Configuration Identification for Documentation (link TBD)
+	  - Configuration Identification for Documentation (link TBD)
 	
 	  -  Configuration Identification for Development Data (e.g., development documentation, source code) (link TBD)
 	
@@ -79,13 +79,13 @@ The Configuration Management (CM) is a framework to establish and maintain the i
 	  
 	  -  Source Code Status (TBD)
 	  
-  -  Backup, Archive and Release  
+   -   Backup, Archive and Release  
    
-	  -  Backup (TBD)
+	 -  Backup (TBD)
+	 
+	 -  Archive (TBD)
 	  
-	  -  Archive (TBD)
-	  
-	  -  Release (TBD)
+	 -  Release (TBD)
 
 #. **Manage CM data**
    
