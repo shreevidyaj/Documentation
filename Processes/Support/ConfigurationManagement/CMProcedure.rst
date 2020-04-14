@@ -62,7 +62,8 @@ A configuration item is a collection of the program work products consisting of 
  
 #. **Perform CM activities**
    
-   - Identification of configuration items: The CM Lead provides a description of configuration items to which the CM scope applies.  Items placed under CM include (but not limited to):   
+   - Identification of configuration items: The CM Lead provides a description of configuration items to which the CM scope applies.  Items placed under CM include (but not limited to):  
+   
      - Lifecycle Data/ work products 
 	   - Requirements
        - Designs
@@ -76,6 +77,7 @@ A configuration item is a collection of the program work products consisting of 
        - Test results
        - Traceability links
        - SQA review and audit plans and records
+   
      - Development and Test Environment details
    
    - Configuration Identification for Documentation - See guidelines
