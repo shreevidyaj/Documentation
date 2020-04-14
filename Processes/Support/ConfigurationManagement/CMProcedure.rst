@@ -6,7 +6,6 @@ Configuration Management Procedure
 
 **THIS PAGE IS CURRENTLY A WORK IN PROGRESS**
 
-The Configuration Management (CM) is a framework to establish and maintain the integrity of program-related work products and baselines throughout the lifecycle. This procedure documents the standardized repeatable methods/procedures, and helps guide the program team members in establishing a CM system -- tools and methods for the program.
 
 Configuration Management consists of four main actvities performed throughout the lifecycle of the program release and after its completion:
 
@@ -15,23 +14,17 @@ Configuration Management consists of four main actvities performed throughout th
 +------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
 |Start of the Project    |     Control            | Management of each configuration item                                                                          |
 +------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
-|During the Project      |     Status             | Recording the current status of all configuration items in the CM system and the maintenance information       |
-+------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
-|During the Project      |     Verification       | Review and audit of the information contained in the CM system to ensure it is accurate                        |
+|During the Project      |     Status             | Recording the current status of all configuration items in the CM system                                       |
 +------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
 
-A configuration identification is a component of configuration management consisting of selecting the program work products (configuration items for a product), assigning unique identifiers and recording their functional and physical characteristics. 
-
-A configuration item is a collection of the program work products consisting of all required hardware, software, documentation, resources and other work products that comprise a baseline.
+The Configuration Management (CM) is a framework to establish and maintain the integrity of program-related work products and baselines throughout the lifecycle. This procedure documents the standardized repeatable methods/procedures, and helps guide the program team members in establishing a CM system -- tools and methods for the program.
 
 +------------------------+---------------------------------------------------------------------------+
 |Entry Criteria/Inputs:  | - A new program has been initiated/authorized and is in planning          |
 +------------------------+---------------------------------------------------------------------------+
 |Exit Criteria/Outputs:  | - Controlled and released configuration items and baselines               |
 |                        | - Configuration status accounting                                         |
-|                        | - Configuration audit reports (verification of configuration records)     |
 +------------------------+---------------------------------------------------------------------------+
-
 
 **Steps**
 ---------
