@@ -64,7 +64,8 @@ A configuration item is a collection of the program work products consisting of 
    
    - Identification of configuration items: The CM Lead provides a description of configuration items to which the CM scope applies.  Items placed under CM include (but not limited to):  
    
-     - Lifecycle Data/ work products 
+     - Lifecycle Data/Work products
+	 
 	   - Requirements
        - Designs
        - Source code
