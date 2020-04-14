@@ -10,15 +10,15 @@ The configuration management is a framework to establish and maintain the integr
 
 Configuration Management consists of four main actvities performed throughout the lifecycle of the program release and after its completion:
 
-+------------------------+------------------------+------------------------------------------------------------------------------------------------------------------+
-|Start of the Project    |     Identification     | - this is the specification of all components (configuration items) and their inclusion in the CM system         |
-+------------------------+------------------------+------------------------------------------------------------------------------------------------------------------+
-|Start of the Project    |     Control            | - this is the management of each configuration item                                                              |
-+------------------------+------------------------+------------------------------------------------------------------------------------------------------------------+
-|During the Project      |     Status             | - this recording the current status of all configuration items in the CM system and the maintenance information  |
-+------------------------+------------------------+------------------------------------------------------------------------------------------------------------------+
-|During the Project      |     Verification       | - this is the review and audit of the information contained in the CM system to ensure it is accurate            |
-+------------------------+------------------------+------------------------------------------------------------------------------------------------------------------+
++------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
+|Start of the Project    |     Identification     | Specification of all components (configuration items) and their inclusion in the CM system                     |
++------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
+|Start of the Project    |     Control            | Management of each configuration item                                                                          |
++------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
+|During the Project      |     Status             | Recording the current status of all configuration items in the CM system and the maintenance information       |
++------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
+|During the Project      |     Verification       | Review and audit of the information contained in the CM system to ensure it is accurate                        |
++------------------------+------------------------+----------------------------------------------------------------------------------------------------------------+
 
 A configuration identification is a component of configuration management consisting of selecting the program work products (configuration items for a product), assigning unique identifiers and recording their functional and physical characteristics. 
 
@@ -38,14 +38,20 @@ A configuration item is a collection of the program work products consisting of 
 
 #. **Establish the CM (Configuration Management) system
    
-   - CM Tools  - Identify the CM tools used for the configuration management of the software lifecycle data, hardware and software tool components.
-     - CM_File_Tool: General purpose file data capture and management tool ( e.g., Git, SVN)
+   - CM Tools: Identify the CM tools used for the configuration management of the software lifecycle data, hardware and software tool components.
+     
+	 - CM_File_Tool: General purpose file data capture and management tool ( e.g., Git, SVN)
+	 
 	 - PR_Tool:  Problem report capture and management tool
+	 
 	 - Archival/Backup_Tool: Tool for storage of the released media/for backup and restoring server data
+	 
 	 - Release _Tool:  Tool used to release lifecycle data
   
-   - CM Servers - List the generic servers that host the configuration management tools and their configuration management data
+   - CM Servers: List the generic servers that host the configuration management tools and their configuration management data
+   
 	   - CM server: Server used to host the CM_File_Tool and its back-end data repositories
+	   
 	   - Release_Server: Server used to host the released media and its back-end data repositories
  
    - CM Methods - Describe the configuration methods used, in this case the file repository structure
@@ -82,7 +88,7 @@ A configuration item is a collection of the program work products consisting of 
 
 #. **Manage CM data**
    
-   -  The configuration management records are produced as required.
+   - The configuration management records are produced as required.
 
 
 
