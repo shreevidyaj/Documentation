@@ -35,7 +35,7 @@ The Configuration Management (CM) is a framework to establish and maintain the i
    
       -  CM_File_Tool: General purpose file data capture and management tool (e.g., Git, SVN)
 	  
-	  -  Archive & Backup _Tool: Tool for storage of the released media, backup and restoring server data
+	  -  Archive & Backup_Tool: Tool for storage or the released media, backup and restoring server data
 
    -  CM Servers: List the generic servers that host the configuration management tools and their configuration management data
    
